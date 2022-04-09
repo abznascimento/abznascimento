@@ -1,6 +1,6 @@
 ###        Oiê! Eu sou a Ana Beatriz 👋
 
-- 🌱 Estudando HTML CSS JAVASCRIP
+- 🌱 Estudando C C++ JavaScrip 
 - 📫 Contate-me no e-mail: ana.beatriznas@outlook.com
 - ⚡ Fun fact: I like plants 🍀
 
