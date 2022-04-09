@@ -1,7 +1,7 @@
 ###        Oiê! Eu sou a Ana Beatriz 👋
 
 - 🌱 Estudando C C++ JavaScript 
-- 📫 Contate-me no e-mail: ana.beatriznas@outlook.com
+- 📫 ana.beatriznas@outlook.com
 - ⚡ Fun fact: I like plants 🍀
 
   <div 
