@@ -1,8 +1,9 @@
 ###        Oiê! 👋
 
-- 🌱 Estudando C C++ JavaScript 
+
+- Estudando C C++ JavaScript 
 - 📫 ana.beatriznas@outlook.com
-- ⚡ Fun fact: I like plants 🍀
+- Fun fact: I like plants 🍀
 
   <div 
   <a href="https://github.com/abznascimento">
