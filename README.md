@@ -1,4 +1,4 @@
-###        Oiê! Eu sou a Ana Beatriz 👋
+###        Oiê! 👋
 
 - 🌱 Estudando C C++ JavaScript 
 - 📫 ana.beatriznas@outlook.com
