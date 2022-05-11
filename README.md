@@ -1,7 +1,7 @@
 ###        Oiê! 👋
 
 
-- Estudando C C++ JavaScript 
+- Estudando HTML CSS JavaScript 
 - 📫 ana.beatriznas@outlook.com
 - Fun fact: I like plants 🍀
 
